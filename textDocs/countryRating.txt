@@ -1,0 +1,637 @@
+Trend detected: TV-MA
+Chi square val: 311.715561194877
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was less than expected
+Expected count: 937.7252153786807
+Actual count: 879
+Significance value yes: 3.6776774951922007
+Significance value no: 2.14032451459415
+ 
+Significant parameter: India
+Value was less than expected
+Expected count: 339.55291243410056
+Actual count: 228
+Significance value yes: 36.64834497611683
+Significance value no: 21.328501826010992
+ 
+Significant parameter: United Kingdom
+Value was more than expected
+Expected count: 145.68033946251768
+Actual count: 167
+Significance value yes: 3.120036149767671
+Significance value no: 1.8157899561605633
+ 
+Significant parameter: South Korea
+Value was more than expected
+Expected count: 67.32197505464832
+Actual count: 83
+Significance value yes: 3.651117870317116
+Significance value no: 2.1248674180181624
+ 
+Significant parameter: Spain
+Value was more than expected
+Expected count: 49.29587244438729
+Actual count: 109
+Significance value yes: 72.30996573188203
+Significance value no: 42.082752636068854
+ 
+Significant parameter: France
+Value was more than expected
+Expected count: 42.306159187347305
+Actual count: 75
+Significance value yes: 25.26552274220043
+Significance value no: 14.703958617867256
+ 
+Significant parameter: Egypt
+Value was less than expected
+Expected count: 37.15584415584416
+Actual count: 28
+Significance value yes: 2.25615873116747
+Significance value no: 1.313032980038674
+ 
+Significant parameter: Mexico
+Value was more than expected
+Expected count: 36.787964510736785
+Actual count: 69
+Significance value yes: 28.205290620488633
+Significance value no: 16.41483654703376
+ 
+Significant parameter: Turkey
+Value was more than expected
+Expected count: 36.787964510736785
+Actual count: 50
+Significance value yes: 4.744972549883942
+Significance value no: 2.761465920508128
+ 
+Significant parameter: Brazil
+Value was more than expected
+Expected count: 26.487334447730486
+Actual count: 47
+Significance value yes: 15.885684869106075
+Significance value no: 9.245106674229556
+ 
+ 
+ 
+ 
+ 
+Trend detected: R
+Chi square val: 279.69583045597403
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was more than expected
+Expected count: 217.96129612961295
+Actual count: 364
+Significance value yes: 97.84903745231952
+Significance value no: 9.14927023422279
+ 
+Significant parameter: India
+Value was less than expected
+Expected count: 78.92439243924392
+Actual count: 2
+Significance value yes: 74.97507385567775
+Significance value no: 7.010464582961987
+ 
+Significant parameter: Japan
+Value was less than expected
+Expected count: 19.23942394239424
+Actual count: 0
+Significance value yes: 19.23942394239424
+Significance value no: 1.7989618843774142
+ 
+Significant parameter: South Korea
+Value was less than expected
+Expected count: 15.648064806480647
+Actual count: 0
+Significance value yes: 15.648064806480647
+Significance value no: 1.4631556659602967
+ 
+Significant parameter: Spain
+Value was less than expected
+Expected count: 11.458145814581458
+Actual count: 2
+Significance value yes: 7.807242436733854
+Significance value no: 0.7300079050095629
+ 
+Significant parameter: France
+Value was less than expected
+Expected count: 9.833483348334832
+Actual count: 2
+Significance value yes: 6.240256803712406
+Significance value no: 0.5834885790872807
+ 
+Significant parameter: Egypt
+Value was less than expected
+Expected count: 8.636363636363637
+Actual count: 0
+Significance value yes: 8.636363636363637
+Significance value no: 0.8075340014316372
+ 
+Significant parameter: Mexico
+Value was less than expected
+Expected count: 8.55085508550855
+Actual count: 4
+Significance value yes: 2.4220129802453925
+Significance value no: 0.22646774913711779
+ 
+Significant parameter: Turkey
+Value was less than expected
+Expected count: 8.55085508550855
+Actual count: 0
+Significance value yes: 8.55085508550855
+Significance value no: 0.7995386152788494
+ 
+Significant parameter: Taiwan
+Value was less than expected
+Expected count: 6.66966696669667
+Actual count: 0
+Significance value yes: 6.66966696669667
+Significance value no: 0.623640119917503
+ 
+Significant parameter: Brazil
+Value was less than expected
+Expected count: 6.156615661566156
+Actual count: 0
+Significance value yes: 6.156615661566156
+Significance value no: 0.5756678030007711
+ 
+ 
+ 
+ 
+ 
+Trend detected: PG-13
+Chi square val: 183.98113357475836
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was more than expected
+Expected count: 126.51588015944452
+Actual count: 227
+Significance value yes: 79.80862424073617
+Significance value no: 4.168059661334595
+ 
+Significant parameter: India
+Value was less than expected
+Expected count: 45.81175260383181
+Actual count: 4
+Significance value yes: 38.16100796060377
+Significance value no: 1.9929845856843624
+ 
+Significant parameter: United Kingdom
+Value was less than expected
+Expected count: 19.654879773691654
+Actual count: 7
+Significance value yes: 8.147899347669776
+Significance value no: 0.4255295830334927
+ 
+Significant parameter: Japan
+Value was less than expected
+Expected count: 11.167545325961168
+Actual count: 3
+Significance value yes: 5.973452061712464
+Significance value no: 0.31196759515911526
+ 
+Significant parameter: South Korea
+Value was less than expected
+Expected count: 9.082936865115084
+Actual count: 0
+Significance value yes: 9.082936865115084
+Significance value no: 0.47436255309625713
+ 
+Significant parameter: Canada
+Value was less than expected
+Expected count: 8.785135656422785
+Actual count: 3
+Significance value yes: 3.809593371360872
+Significance value no: 0.19895860388923045
+ 
+Significant parameter: Spain
+Value was less than expected
+Expected count: 6.650893660794651
+Actual count: 1
+Significance value yes: 4.801249395076609
+Significance value no: 0.25074851393580994
+ 
+Significant parameter: France
+Value was less than expected
+Expected count: 5.7078564999357075
+Actual count: 1
+Significance value yes: 3.8830536164033806
+Significance value no: 0.20279511513079557
+ 
+Significant parameter: Egypt
+Value was less than expected
+Expected count: 5.012987012987013
+Actual count: 0
+Significance value yes: 5.012987012987013
+Significance value no: 0.2618066549875505
+ 
+Significant parameter: Mexico
+Value was less than expected
+Expected count: 4.963353478204963
+Actual count: 1
+Significance value yes: 3.164830162142787
+Significance value no: 0.165285406925601
+ 
+Significant parameter: Turkey
+Value was less than expected
+Expected count: 4.963353478204963
+Actual count: 0
+Significance value yes: 4.963353478204963
+Significance value no: 0.2592145098886642
+ 
+Significant parameter: Australia
+Value was less than expected
+Expected count: 4.06994985212807
+Actual count: 1
+Significance value yes: 2.315653125222977
+Significance value no: 0.12093655883318531
+ 
+Significant parameter: Taiwan
+Value was less than expected
+Expected count: 3.8714157129998714
+Actual count: 0
+Significance value yes: 3.8714157129998714
+Significance value no: 0.2021873177131585
+ 
+Significant parameter: Brazil
+Value was less than expected
+Expected count: 3.5736145043075735
+Actual count: 1
+Significance value yes: 1.8534432319989955
+Significance value no: 0.09679733291186723
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-14
+Chi square val: 859.2547522043217
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was less than expected
+Expected count: 631.923878102096
+Actual count: 376
+Significance value yes: 103.64702720132777
+Significance value no: 34.16506555721658
+ 
+Significant parameter: India
+Value was more than expected
+Expected count: 228.82139642535682
+Actual count: 520
+Significance value yes: 370.52906985180755
+Significance value no: 122.13712543584971
+ 
+Significant parameter: United Kingdom
+Value was less than expected
+Expected count: 98.17256011315418
+Actual count: 68
+Significance value yes: 9.273297780281883
+Significance value no: 3.0567478407220876
+ 
+Significant parameter: Japan
+Value was more than expected
+Expected count: 55.77986370065578
+Actual count: 76
+Significance value yes: 7.329776102684363
+Significance value no: 2.4161067406352257
+ 
+Significant parameter: South Korea
+Value was more than expected
+Expected count: 45.36762247653337
+Actual count: 70
+Significance value yes: 13.374163981646396
+Significance value no: 4.4085122510880925
+ 
+Significant parameter: Canada
+Value was less than expected
+Expected count: 43.88015944451588
+Actual count: 23
+Significance value yes: 9.935721837558056
+Significance value no: 3.275102017919628
+ 
+Significant parameter: Spain
+Value was less than expected
+Expected count: 33.22000771505722
+Actual count: 12
+Significance value yes: 13.554744817924627
+Significance value no: 4.4680369309213
+ 
+Significant parameter: France
+Value was less than expected
+Expected count: 28.509708113668513
+Actual count: 18
+Significance value yes: 3.874257996403492
+Significance value no: 1.2770677751865154
+ 
+Significant parameter: Egypt
+Value was more than expected
+Expected count: 25.03896103896104
+Actual count: 69
+Significance value yes: 77.18263323813115
+Significance value no: 25.441633934538707
+ 
+Significant parameter: Mexico
+Value was less than expected
+Expected count: 24.79105053362479
+Actual count: 13
+Significance value yes: 5.608026674703629
+Significance value no: 1.8485682046210652
+ 
+Significant parameter: Turkey
+Value was more than expected
+Expected count: 24.79105053362479
+Actual count: 36
+Significance value yes: 5.067979994205705
+Significance value no: 1.670553159314171
+ 
+Significant parameter: Australia
+Value was less than expected
+Expected count: 20.32866143757233
+Actual count: 12
+Significance value yes: 3.4122562154288207
+Significance value no: 1.1247785917843678
+ 
+Significant parameter: Taiwan
+Value was more than expected
+Expected count: 19.33701941622734
+Actual count: 38
+Significance value yes: 18.0124370138441
+Significance value no: 5.937421535765334
+ 
+Significant parameter: Brazil
+Value was less than expected
+Expected count: 17.84955638420985
+Actual count: 8
+Significance value yes: 5.435079666828569
+Significance value no: 1.7915598559831551
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-PG
+Chi square val: 86.68989170782217
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was less than expected
+Expected count: 263.52012344091554
+Actual count: 239
+Significance value yes: 2.28155802944795
+Significance value no: 0.26306792710112603
+ 
+Significant parameter: India
+Value was more than expected
+Expected count: 95.42137070849942
+Actual count: 133
+Significance value yes: 14.799131147905854
+Significance value no: 1.7063676241096057
+ 
+Significant parameter: United Kingdom
+Value was more than expected
+Expected count: 40.93917963224894
+Actual count: 74
+Significance value yes: 26.698577089407596
+Significance value no: 3.078396096355037
+ 
+Significant parameter: Japan
+Value was more than expected
+Expected count: 23.26089751832326
+Actual count: 39
+Significance value yes: 10.649603985984951
+Significance value no: 1.2279193467276475
+ 
+Significant parameter: Spain
+Value was less than expected
+Expected count: 13.853156744245853
+Actual count: 5
+Significance value yes: 5.657799574868857
+Significance value no: 0.6523549201483665
+ 
+Significant parameter: France
+Value was less than expected
+Expected count: 11.888903176031889
+Actual count: 3
+Significance value yes: 6.645911612112356
+Significance value no: 0.7662860943838139
+ 
+Significant parameter: Egypt
+Value was less than expected
+Expected count: 10.441558441558442
+Actual count: 4
+Significance value yes: 3.973896750016153
+Significance value no: 0.4581977609368976
+ 
+Significant parameter: Mexico
+Value was less than expected
+Expected count: 10.338176674810338
+Actual count: 5
+Significance value yes: 2.756398067845164
+Significance value no: 0.3178178755983816
+ 
+Significant parameter: Australia
+Value was more than expected
+Expected count: 8.477304873344478
+Actual count: 13
+Significance value yes: 2.412886113485236
+Significance value no: 0.2782103019133986
+ 
+ 
+ 
+ 
+ 
+Trend detected: NR
+Chi square val: 25.717380130854668
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was more than expected
+Expected count: 27.204191847756206
+Actual count: 34
+Significance value yes: 1.6976430948788637
+Significance value no: 0.018313540014939733
+ 
+Significant parameter: India
+Value was less than expected
+Expected count: 9.85071364279285
+Actual count: 5
+Significance value yes: 2.3886008362035467
+Significance value no: 0.025767334209111058
+ 
+Significant parameter: Japan
+Value was less than expected
+Expected count: 2.4013115597274015
+Actual count: 0
+Significance value yes: 2.4013115597274015
+Significance value no: 0.025904452749854055
+ 
+Significant parameter: Mexico
+Value was more than expected
+Expected count: 1.0672495821010672
+Actual count: 4
+Significance value yes: 8.05905681101673
+Significance value no: 0.08693809660961625
+ 
+Significant parameter: Turkey
+Value was more than expected
+Expected count: 1.0672495821010672
+Actual count: 3
+Significance value yes: 3.5001411483661276
+Significance value no: 0.03775821618331009
+ 
+Significant parameter: Brazil
+Value was more than expected
+Expected count: 0.7684196991127685
+Actual count: 2
+Significance value yes: 1.9739083202640395
+Significance value no: 0.021293786142697575
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-G
+Chi square val: 60.96741598791787
+This is greater than dfThreshold: 22.362
+Significant parameter: United States
+Value was more than expected
+Expected count: 63.585701427285585
+Actual count: 77
+Significance value yes: 2.8299350665134217
+Significance value no: 0.07239976300983829
+ 
+Significant parameter: India
+Value was less than expected
+Expected count: 23.024559598817024
+Actual count: 9
+Significance value yes: 8.542542197023232
+Significance value no: 0.21854848822662395
+ 
+Significant parameter: United Kingdom
+Value was more than expected
+Expected count: 9.87835926449788
+Actual count: 21
+Significance value yes: 12.521400501611277
+Significance value no: 0.32034177730615726
+ 
+Significant parameter: Japan
+Value was less than expected
+Expected count: 5.612704127555613
+Actual count: 1
+Significance value yes: 3.790871366959966
+Significance value no: 0.0969839173401338
+ 
+Significant parameter: South Korea
+Value was less than expected
+Expected count: 4.564999357078565
+Actual count: 1
+Significance value yes: 2.784057438313425
+Significance value no: 0.07122605077578843
+ 
+Significant parameter: Canada
+Value was more than expected
+Expected count: 4.415327247010415
+Actual count: 14
+Significance value yes: 20.806147912162725
+Significance value no: 0.5322949617512279
+ 
+Significant parameter: Spain
+Value was less than expected
+Expected count: 3.3426771248553426
+Actual count: 1
+Significance value yes: 1.64183853430295
+Significance value no: 0.042004045319104344
+ 
+Significant parameter: Egypt
+Value was less than expected
+Expected count: 2.5194805194805197
+Actual count: 0
+Significance value yes: 2.5194805194805197
+Significance value no: 0.06445723602521654
+ 
+Significant parameter: Taiwan
+Value was less than expected
+Expected count: 1.9457374308859459
+Actual count: 0
+Significance value yes: 1.9457374308859459
+Significance value no: 0.04977885554422679
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-Y
+Chi square val: 81.35849163948261
+This is greater than dfThreshold: 22.362
+Significant parameter: India
+Value was less than expected
+Expected count: 33.11263983541211
+Actual count: 6
+Significance value yes: 22.199837962137725
+Significance value no: 0.8260542533257426
+ 
+Significant parameter: Japan
+Value was less than expected
+Expected count: 8.071878616433072
+Actual count: 1
+Significance value yes: 6.195765514083409
+Significance value no: 0.2305439555120401
+ 
+Significant parameter: Canada
+Value was more than expected
+Expected count: 6.34987784492735
+Actual count: 17
+Significance value yes: 17.86256439697968
+Significance value no: 0.6646646394715015
+ 
+Significant parameter: Spain
+Value was less than expected
+Expected count: 4.8072521537868065
+Actual count: 2
+Significance value yes: 1.639328332035349
+Significance value no: 0.06099928042649532
+ 
+Significant parameter: France
+Value was more than expected
+Expected count: 4.125626848399126
+Actual count: 9
+Significance value yes: 5.759006932550598
+Significance value no: 0.21429220247821007
+ 
+Significant parameter: Egypt
+Value was less than expected
+Expected count: 3.623376623376623
+Actual count: 0
+Significance value yes: 3.623376623376623
+Significance value no: 0.13482556387331035
+ 
+Significant parameter: Mexico
+Value was less than expected
+Expected count: 3.587501607303587
+Actual count: 0
+Significance value yes: 3.587501607303587
+Significance value no: 0.13349065730030735
+ 
+Significant parameter: Turkey
+Value was less than expected
+Expected count: 3.587501607303587
+Actual count: 0
+Significance value yes: 3.587501607303587
+Significance value no: 0.13349065730030735
+ 
+Significant parameter: Australia
+Value was more than expected
+Expected count: 2.9417513179889414
+Actual count: 8
+Significance value yes: 8.697499198048389
+Significance value no: 0.3236332723733658
+ 
+Significant parameter: Taiwan
+Value was less than expected
+Expected count: 2.798251253696798
+Actual count: 0
+Significance value yes: 2.798251253696798
+Significance value no: 0.10412271269423982
+ 
+ 
+ 
+ 
+ 

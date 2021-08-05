@@ -1,0 +1,119 @@
+Trend detected: TV-MA
+Chi square val: 24.441192547914223
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was less than expected
+Expected count: 758.5678282113926
+Actual count: 705
+Significance value yes: 3.7828024239456792
+Significance value no: 2.201504828093682
+ 
+Significant parameter: (3, 4, 5)
+Value was more than expected
+Expected count: 666.965796579658
+Actual count: 730
+Significance value yes: 5.957293194363244
+Significance value no: 3.467008915596697
+ 
+Significant parameter: (6, 7, 8)
+Value was more than expected
+Expected count: 647.4681753889674
+Actual count: 688
+Significance value yes: 2.537312054469045
+Significance value no: 1.4766578087542588
+ 
+Significant parameter: (9, 10, 11)
+Value was less than expected
+Expected count: 787.998199819982
+Actual count: 738
+Significance value yes: 3.1723676346087237
+Significance value no: 1.8462456880828961
+ 
+ 
+ 
+ 
+ 
+Trend detected: R
+Chi square val: 12.95640727956323
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was more than expected
+Expected count: 176.3186318631863
+Actual count: 210
+Significance value yes: 6.4340027345937445
+Significance value no: 0.6016045864039435
+ 
+Significant parameter: (3, 4, 5)
+Value was less than expected
+Expected count: 155.02700270027003
+Actual count: 132
+Significance value yes: 3.420325776299871
+Significance value no: 0.31981392593355096
+ 
+ 
+ 
+ 
+ 
+Trend detected: PG-13
+Chi square val: 29.867149128494027
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was more than expected
+Expected count: 102.34434872058634
+Actual count: 135
+Significance value yes: 10.419642841189617
+Significance value no: 0.5441729314976573
+ 
+Significant parameter: (3, 4, 5)
+Value was less than expected
+Expected count: 89.98559855985599
+Actual count: 53
+Significance value yes: 15.201704747464765
+Significance value no: 0.7939193657856065
+ 
+ 
+ 
+ 
+ 
+Trend detected: NR
+Chi square val: 8.12614387593876
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was more than expected
+Expected count: 22.00668638292401
+Actual count: 29
+Significance value yes: 2.222344359154825
+Significance value no: 0.02397382139457352
+ 
+Significant parameter: (6, 7, 8)
+Value was less than expected
+Expected count: 18.783592644978786
+Actual count: 9
+Significance value yes: 5.095866741364327
+Significance value no: 0.05497230823151092
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-Y
+Chi square val: 14.111108479171017
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was less than expected
+Expected count: 73.97428314259997
+Actual count: 60
+Significance value yes: 2.639844295254772
+Significance value no: 0.09822840202401643
+ 
+Significant parameter: (9, 10, 11)
+Value was more than expected
+Expected count: 76.84428442844283
+Actual count: 104
+Significance value yes: 9.596457221096355
+Significance value no: 0.35708343087301975
+ 
+ 
+ 
+ 
+ 

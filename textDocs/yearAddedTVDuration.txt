@@ -1,0 +1,112 @@
+Trend detected: 1 Season
+Chi square val: 34.55287826217757
+This is greater than dfThreshold: 11.07
+Significant parameter: 2015
+Value was less than expected
+Expected count: 20.1
+Actual count: 14
+Significance value yes: 1.851243781094528
+Significance value no: 3.7585858585858607
+ 
+Significant parameter: 2016
+Value was more than expected
+Expected count: 123.95
+Actual count: 144
+Significance value yes: 3.243263412666397
+Significance value no: 6.5848075348075294
+ 
+Significant parameter: 2017
+Value was more than expected
+Expected count: 241.87
+Actual count: 258
+Significance value yes: 1.0756890064910898
+Significance value no: 2.183974649542512
+ 
+Significant parameter: 2020
+Value was less than expected
+Expected count: 466.99
+Actual count: 422
+Significance value yes: 4.334354268828028
+Significance value no: 8.800052606408432
+ 
+ 
+ 
+ 
+ 
+Trend detected: 2 Seasons
+Chi square val: 11.170157783940182
+This is greater than dfThreshold: 11.07
+Significant parameter: 2016
+Value was less than expected
+Expected count: 29.1375
+Actual count: 20
+Significance value yes: 2.8655137280137275
+Significance value no: 0.5356895099847608
+ 
+Significant parameter: 2017
+Value was less than expected
+Expected count: 56.8575
+Actual count: 45
+Significance value yes: 2.4728541749109625
+Significance value no: 0.4622843116302404
+ 
+ 
+ 
+ 
+ 
+Trend detected: 4 Seasons
+Chi square val: 30.835439485304068
+This is greater than dfThreshold: 11.07
+Significant parameter: 2016
+Value was less than expected
+Expected count: 6.629166666666667
+Actual count: 3
+Significance value yes: 1.9868033731405828
+Significance value no: 0.07383971049701371
+ 
+Significant parameter: 2018
+Value was less than expected
+Expected count: 15.408333333333333
+Actual count: 10
+Significance value yes: 1.8983279250045069
+Significance value no: 0.07055151320241539
+ 
+Significant parameter: 2019
+Value was less than expected
+Expected count: 23.506666666666668
+Actual count: 8
+Significance value yes: 10.229298544148232
+Significance value no: 0.38017272030974386
+ 
+Significant parameter: 2020
+Value was more than expected
+Expected count: 24.975833333333334
+Actual count: 44
+Significance value yes: 14.490764433396727
+Significance value no: 0.5385504499879467
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('5 Seasons', '6 Seasons', '7 Seasons', '8 Seasons', '9 Seasons', '10 Seasons')
+Chi square val: 23.69547977153273
+This is greater than dfThreshold: 11.07
+Significant parameter: 2015
+Value was more than expected
+Expected count: 1.7125
+Actual count: 7
+Significance value yes: 16.325638686131384
+Significance value no: 0.9883395934600081
+ 
+Significant parameter: 2019
+Value was less than expected
+Expected count: 37.446666666666665
+Actual count: 25
+Significance value yes: 4.137070796985341
+Significance value no: 0.2504545732156413
+ 
+ 
+ 
+ 
+ 

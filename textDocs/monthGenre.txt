@@ -1,0 +1,315 @@
+Trend detected: International
+Chi square val: 59.12249114590796
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 353.8247396168188
+Actual count: 271
+Significance value yes: 19.387953199719544
+Significance value no: 17.014777856344914
+ 
+Significant parameter: 4
+Value was more than expected
+Expected count: 280.9097338305259
+Actual count: 305
+Significance value yes: 2.0659338364765607
+Significance value no: 1.813053958375736
+ 
+Significant parameter: 6
+Value was more than expected
+Expected count: 253.3329047190433
+Actual count: 285
+Significance value yes: 3.958447184921917
+Significance value no: 3.4739149003358567
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 344.94406583515496
+Actual count: 314
+Significance value yes: 2.775914431495105
+Significance value no: 2.4361296374902723
+ 
+ 
+ 
+ 
+ 
+Trend detected: Sci-Fi & Fantasy
+Chi square val: 25.37837258097223
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was more than expected
+Expected count: 28.520123440915523
+Actual count: 50
+Significance value yes: 16.177528051354603
+Significance value no: 0.6333532494717921
+ 
+Significant parameter: 12
+Value was less than expected
+Expected count: 31.383438343834385
+Actual count: 23
+Significance value yes: 2.239462664825579
+Significance value no: 0.08767538225466108
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('Documentaries', 'Docuseries')
+Chi square val: 28.011551340667282
+This is greater than dfThreshold: 19.675
+Significant parameter: 2
+Value was more than expected
+Expected count: 69.06724958210107
+Actual count: 94
+Significance value yes: 9.00053277295031
+Significance value no: 1.5427935375233417
+ 
+Significant parameter: 9
+Value was more than expected
+Expected count: 90.57760061720458
+Actual count: 111
+Significance value yes: 4.604608575502301
+Significance value no: 0.7892822049889491
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 107.99074193133599
+Actual count: 87
+Significance value yes: 4.080083523345935
+Significance value no: 0.6993726539490367
+ 
+Significant parameter: 12
+Value was less than expected
+Expected count: 121.89198919891989
+Actual count: 102
+Significance value yes: 3.246244785161417
+Significance value no: 0.5564432242075142
+ 
+ 
+ 
+ 
+ 
+Trend detected: Independent
+Chi square val: 25.171601180994607
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was more than expected
+Expected count: 65.50867943937251
+Actual count: 79
+Significance value yes: 2.77849793382056
+Significance value no: 0.26322200302100857
+ 
+Significant parameter: 2
+Value was more than expected
+Expected count: 40.845570271312845
+Actual count: 50
+Significance value yes: 2.0517178019749456
+Significance value no: 0.19437022532786266
+ 
+Significant parameter: 3
+Value was more than expected
+Expected count: 57.893403626076896
+Actual count: 68
+Significance value yes: 1.764333825060983
+Significance value no: 0.16714480071312637
+ 
+Significant parameter: 7
+Value was more than expected
+Expected count: 51.92233509065193
+Actual count: 66
+Significance value yes: 3.8168670371600917
+Significance value no: 0.3615922742129423
+ 
+Significant parameter: 10
+Value was less than expected
+Expected count: 67.93172174360294
+Actual count: 49
+Significance value yes: 5.276034214618729
+Significance value no: 0.49982700259549473
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 63.864472161501865
+Actual count: 47
+Significance value yes: 4.453343332531555
+Significance value no: 0.4218890854157871
+ 
+ 
+ 
+ 
+ 
+Trend detected: Comedies
+Chi square val: 31.51130905134978
+This is greater than dfThreshold: 19.675
+Significant parameter: 2
+Value was less than expected
+Expected count: 120.71595731001672
+Actual count: 98
+Significance value yes: 4.2746189319884085
+Significance value no: 1.4689386758336138
+ 
+Significant parameter: 4
+Value was more than expected
+Expected count: 153.7082422527967
+Actual count: 182
+Significance value yes: 5.207421181162286
+Significance value no: 1.7894887231050014
+ 
+Significant parameter: 5
+Value was more than expected
+Expected count: 138.8745017358879
+Actual count: 157
+Significance value yes: 2.3656876043893056
+Significance value no: 0.8129496622547193
+ 
+Significant parameter: 6
+Value was less than expected
+Expected count: 138.61874758904463
+Actual count: 116
+Significance value yes: 3.6907543272115517
+Significance value no: 1.2682982648278813
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 153.45248810595345
+Actual count: 134
+Significance value yes: 2.4659052334882263
+Significance value no: 0.8473886505542669
+ 
+Significant parameter: 12
+Value was more than expected
+Expected count: 213.04320432043204
+Actual count: 234
+Significance value yes: 2.061493989240744
+Significance value no: 0.708415954492021
+ 
+ 
+ 
+ 
+ 
+Trend detected: Reality TV
+Chi square val: 25.080243095940634
+This is greater than dfThreshold: 19.675
+Significant parameter: 3
+Value was less than expected
+Expected count: 19.097081136685098
+Actual count: 11
+Significance value yes: 3.4331279458260773
+Significance value no: 0.1008807947019713
+ 
+Significant parameter: 5
+Value was less than expected
+Expected count: 15.500321460717501
+Actual count: 8
+Significance value yes: 3.629268086901696
+Significance value no: 0.10664427733847433
+ 
+Significant parameter: 7
+Value was more than expected
+Expected count: 17.127427028417127
+Actual count: 27
+Significance value yes: 5.690737839227938
+Significance value no: 0.16721956324402257
+ 
+Significant parameter: 8
+Value was more than expected
+Expected count: 17.64124983926964
+Actual count: 25
+Significance value yes: 3.0695786535207863
+Significance value no: 0.09019807558988854
+ 
+Significant parameter: 11
+Value was more than expected
+Expected count: 21.066735244953065
+Actual count: 27
+Significance value yes: 1.6710529773195804
+Significance value no: 0.049103078883513805
+ 
+Significant parameter: 12
+Value was more than expected
+Expected count: 23.77857785778578
+Actual count: 31
+Significance value yes: 2.19310583113728
+Significance value no: 0.06444334804930225
+ 
+ 
+ 
+ 
+ 
+Trend detected: Science & Nature
+Chi square val: 31.48269054215138
+This is greater than dfThreshold: 19.675
+Significant parameter: 3
+Value was more than expected
+Expected count: 7.311945480262311
+Actual count: 16
+Significance value yes: 10.323147449839384
+Significance value no: 0.11407534233441749
+ 
+Significant parameter: 5
+Value was less than expected
+Expected count: 5.934807766490934
+Actual count: 2
+Significance value yes: 2.6087975834121777
+Significance value no: 0.028828366431362232
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 6.557798637006558
+Actual count: 2
+Significance value yes: 3.167759421320283
+Significance value no: 0.03500514181126243
+ 
+Significant parameter: 9
+Value was more than expected
+Expected count: 6.765462260511765
+Actual count: 14
+Significance value yes: 7.736136022746869
+Significance value no: 0.0854877225602556
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 8.066092323518065
+Actual count: 4
+Significance value yes: 2.049704630229368
+Significance value no: 0.0226501421697216
+ 
+Significant parameter: 12
+Value was less than expected
+Expected count: 9.104410441044104
+Actual count: 5
+Significance value yes: 1.8503323392151374
+Significance value no: 0.020446990227936723
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('Kids', 'Children')
+Chi square val: 23.65531929591657
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was more than expected
+Expected count: 91.88736016458789
+Actual count: 118
+Significance value yes: 7.420715514653937
+Significance value no: 1.0251947088882347
+ 
+Significant parameter: 4
+Value was less than expected
+Expected count: 72.95152372380095
+Actual count: 56
+Significance value yes: 3.9389740185075115
+Significance value no: 0.5441813952101708
+ 
+Significant parameter: 11
+Value was more than expected
+Expected count: 89.58107239295359
+Actual count: 110
+Significance value yes: 4.6542488662437345
+Significance value no: 0.6429988189278609
+ 
+ 
+ 
+ 
+ 

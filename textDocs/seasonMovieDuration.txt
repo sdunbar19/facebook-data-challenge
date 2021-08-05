@@ -1,0 +1,21 @@
+Trend detected: ('150 min', '151 min', '152 min', '153 min', '154 min', '155 min', '156 min', '157 min', '158 min', '159 min', '160 min', '161 min', '162 min', '163 min', '164 min', '165 min', '166 min', '167 min', '168 min', '169 min', '170 min', '171 min', '172 min', '173 min', '174 min', '175 min', '176 min', '177 min', '178 min', '179 min', '180 min', '181 min', '182 min', '183 min', '184 min', '185 min', '186 min', '187 min', '188 min', '189 min', '190 min', '191 min', '192 min', '193 min', '194 min', '195 min', '196 min', '197 min', '198 min', '199 min')
+Chi square val: 9.436119547955547
+This is greater than dfThreshold: 7.815
+Significant parameter: (3, 4, 5)
+Value was more than expected
+Expected count: 53.27766412497675
+Actual count: 71
+Significance value yes: 5.895175661800339
+Significance value no: 0.25984560684051816
+ 
+Significant parameter: (9, 10, 11)
+Value was less than expected
+Expected count: 62.43872047610191
+Actual count: 49
+Significance value yes: 2.8924232696908683
+Significance value no: 0.1274912781009377
+ 
+ 
+ 
+ 
+ 

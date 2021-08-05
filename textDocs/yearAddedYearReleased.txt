@@ -1,0 +1,147 @@
+Trend detected: (1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969)
+Chi square val: 14.213133102973295
+This is greater than dfThreshold: 11.07
+Significant parameter: 2017
+Value was more than expected
+Expected count: 3.937893789378938
+Actual count: 7
+Significance value yes: 2.3810937893789372
+Significance value no: 0.00767896603901893
+ 
+Significant parameter: 2018
+Value was less than expected
+Expected count: 5.416613089880417
+Actual count: 0
+Significance value yes: 5.416613089880417
+Significance value no: 0.017468437467364865
+ 
+Significant parameter: 2019
+Value was more than expected
+Expected count: 6.921049247781921
+Actual count: 12
+Significance value yes: 3.7271430703550745
+Significance value no: 0.012019940242373437
+ 
+ 
+ 
+ 
+ 
+Trend detected: (2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009)
+Chi square val: 32.65479994538684
+This is greater than dfThreshold: 11.07
+Significant parameter: 2017
+Value was less than expected
+Expected count: 114.19891989198919
+Actual count: 65
+Significance value yes: 21.195767182629588
+Significance value no: 2.1790883731432804
+ 
+Significant parameter: 2019
+Value was more than expected
+Expected count: 200.7104281856757
+Actual count: 239
+Significance value yes: 7.304509900043794
+Significance value no: 0.7509599656170945
+ 
+ 
+ 
+ 
+ 
+Trend detected: (2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+Chi square val: 1365.562575894569
+This is greater than dfThreshold: 11.07
+Significant parameter: 2015
+Value was more than expected
+Expected count: 64.54314002828855
+Actual count: 81
+Significance value yes: 4.196080946942117
+Significance value no: 11.545801119806004
+ 
+Significant parameter: 2016
+Value was more than expected
+Expected count: 324.91603446058895
+Actual count: 381
+Significance value yes: 9.68068933824001
+Significance value no: 26.637072834211807
+ 
+Significant parameter: 2017
+Value was more than expected
+Expected count: 898.4698469846985
+Actual count: 1099
+Significance value yes: 44.7564739131697
+Significance value no: 123.15047139446214
+ 
+Significant parameter: 2018
+Value was more than expected
+Expected count: 1235.854442587116
+Actual count: 1436
+Significance value yes: 32.413399808036324
+Significance value no: 89.18766642790128
+ 
+Significant parameter: 2019
+Value was more than expected
+Expected count: 1579.1065963739231
+Actual count: 1771
+Significance value yes: 23.31893137534647
+Significance value no: 64.16362014711832
+ 
+Significant parameter: 2020
+Value was less than expected
+Expected count: 1473.4905490549056
+Actual count: 867
+Significance value yes: 249.6322669519984
+Significance value no: 686.8801016373365
+ 
+ 
+ 
+ 
+ 
+Trend detected: (2020, 2021)
+Chi square val: 2592.3504381675466
+This is greater than dfThreshold: 11.07
+Significant parameter: 2015
+Value was less than expected
+Expected count: 10.172560113154173
+Actual count: 0
+Significance value yes: 10.172560113154173
+Significance value no: 1.3296207533767967
+ 
+Significant parameter: 2016
+Value was less than expected
+Expected count: 51.209592387810204
+Actual count: 0
+Significance value yes: 51.209592387810204
+Significance value no: 6.693431747112739
+ 
+Significant parameter: 2017
+Value was less than expected
+Expected count: 141.6066606660666
+Actual count: 0
+Significance value yes: 141.6066606660666
+Significance value no: 18.508925260074697
+ 
+Significant parameter: 2018
+Value was less than expected
+Expected count: 194.78140671209977
+Actual count: 0
+Significance value yes: 194.78140671209977
+Significance value no: 25.45921556181708
+ 
+Significant parameter: 2019
+Value was less than expected
+Expected count: 248.88093095023788
+Actual count: 4
+Significance value yes: 240.94521872005177
+Significance value no: 31.493130507317016
+ 
+Significant parameter: 2020
+Value was more than expected
+Expected count: 232.23492349234922
+Actual count: 852
+Significance value yes: 1653.9663556294897
+Significance value no: 216.18432010917581
+ 
+ 
+ 
+ 
+ 

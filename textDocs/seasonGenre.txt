@@ -1,0 +1,119 @@
+Trend detected: International
+Chi square val: 27.92731613937399
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was less than expected
+Expected count: 963.7868072521537
+Actual count: 885
+Significance value yes: 6.440595524113667
+Significance value no: 5.652236776956378
+ 
+Significant parameter: (3, 4, 5)
+Value was more than expected
+Expected count: 847.4032403240324
+Actual count: 907
+Significance value yes: 4.191362027972544
+Significance value no: 3.6783198869338825
+ 
+Significant parameter: (6, 7, 8)
+Value was more than expected
+Expected count: 822.6308345120226
+Actual count: 874
+Significance value yes: 3.207746479010255
+Significance value no: 2.815103440657225
+ 
+ 
+ 
+ 
+ 
+Trend detected: Independent
+Chi square val: 12.860980698220104
+This is greater than dfThreshold: 7.815
+Significant parameter: (9, 10, 11)
+Value was less than expected
+Expected count: 185.36273627362738
+Actual count: 146
+Significance value yes: 8.358880744293296
+Significance value no: 0.7918815795199051
+ 
+ 
+ 
+ 
+ 
+Trend detected: Comedies
+Chi square val: 10.531710478104321
+This is greater than dfThreshold: 7.815
+Significant parameter: (3, 4, 5)
+Value was more than expected
+Expected count: 463.6822682268227
+Actual count: 502
+Significance value yes: 3.166497122816279
+Significance value no: 1.0881414611751141
+ 
+Significant parameter: (6, 7, 8)
+Value was less than expected
+Expected count: 450.12729844413013
+Actual count: 405
+Significance value yes: 4.524215864944608
+Significance value no: 1.5547106695533641
+ 
+ 
+ 
+ 
+ 
+Trend detected: Reality TV
+Chi square val: 16.764353669158464
+This is greater than dfThreshold: 7.815
+Significant parameter: (3, 4, 5)
+Value was less than expected
+Expected count: 51.753375337533754
+Actual count: 31
+Significance value yes: 8.32221251447904
+Significance value no: 0.24454416654061437
+ 
+Significant parameter: (6, 7, 8)
+Value was more than expected
+Expected count: 50.24045261669024
+Actual count: 70
+Significance value yes: 7.771421085158709
+Significance value no: 0.22835942831307038
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('Kids', 'Children')
+Chi square val: 12.053882450216774
+This is greater than dfThreshold: 7.815
+Significant parameter: (12, 1, 2)
+Value was more than expected
+Expected count: 250.29291500578628
+Actual count: 273
+Significance value yes: 2.0600331772176843
+Significance value no: 0.2845999296492768
+ 
+Significant parameter: (3, 4, 5)
+Value was less than expected
+Expected count: 220.06840684068408
+Actual count: 193
+Significance value yes: 3.3294131557158093
+Significance value no: 0.4599686841790883
+ 
+Significant parameter: (6, 7, 8)
+Value was less than expected
+Expected count: 213.63507779349362
+Actual count: 191
+Significance value yes: 2.3982332490021068
+Significance value no: 0.3313233114383108
+ 
+Significant parameter: (9, 10, 11)
+Value was more than expected
+Expected count: 260.003600360036
+Actual count: 287
+Significance value yes: 2.803059621141579
+Significance value no: 0.3872513218729182
+ 
+ 
+ 
+ 
+ 

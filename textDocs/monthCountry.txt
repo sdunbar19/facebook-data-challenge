@@ -1,0 +1,441 @@
+Trend detected: United States
+Chi square val: 44.38944810579718
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was more than expected
+Expected count: 248.11534010543912
+Actual count: 306
+Significance value yes: 13.504339754587924
+Significance value no: 6.584269708195228
+ 
+Significant parameter: 5
+Value was less than expected
+Expected count: 177.97441172688698
+Actual count: 155
+Significance value yes: 2.965727427190494
+Significance value no: 1.445990667924359
+ 
+Significant parameter: 6
+Value was less than expected
+Expected count: 177.64665037932363
+Actual count: 155
+Significance value yes: 2.8870275477089007
+Significance value no: 1.4076192079399399
+ 
+Significant parameter: 11
+Value was more than expected
+Expected count: 241.8878745017359
+Actual count: 279
+Significance value yes: 5.694001246800904
+Significance value no: 2.7762068052975337
+ 
+ 
+ 
+ 
+ 
+Trend detected: India
+Chi square val: 29.266126337789363
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 89.84325575414685
+Actual count: 67
+Significance value yes: 5.80805235817913
+Significance value no: 0.7821465314559884
+ 
+Significant parameter: 3
+Value was more than expected
+Expected count: 79.3991256268484
+Actual count: 95
+Significance value yes: 3.065364754149863
+Significance value no: 0.41280006829301263
+ 
+Significant parameter: 4
+Value was more than expected
+Expected count: 71.32866143757234
+Actual count: 86
+Significance value yes: 3.0176954239042426
+Significance value no: 0.4063806355797506
+ 
+Significant parameter: 6
+Value was less than expected
+Expected count: 64.32634692040632
+Actual count: 47
+Significance value yes: 4.666863765444764
+Significance value no: 0.6284673556325518
+ 
+Significant parameter: 9
+Value was less than expected
+Expected count: 73.46496078179247
+Actual count: 56
+Significance value yes: 4.151977376201721
+Significance value no: 0.5591297225319789
+ 
+ 
+ 
+ 
+ 
+Trend detected: United Kingdom
+Chi square val: 37.485129949176724
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 38.54596888260255
+Actual count: 30
+Significance value yes: 1.8947139288376869
+Significance value no: 0.10165380244136622
+ 
+Significant parameter: 2
+Value was more than expected
+Expected count: 24.033946251768036
+Actual count: 33
+Significance value yes: 3.3448572687171847
+Significance value no: 0.17945582961820936
+ 
+Significant parameter: 3
+Value was more than expected
+Expected count: 34.06506364922207
+Actual count: 54
+Significance value yes: 11.665960510208608
+Significance value no: 0.6258935594150713
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 30.551626591230555
+Actual count: 23
+Significance value yes: 1.8665802949342567
+Significance value no: 0.1001443973437143
+ 
+Significant parameter: 8
+Value was more than expected
+Expected count: 31.46817538896747
+Actual count: 40
+Significance value yes: 2.3131951660260786
+Significance value no: 0.12410585093433602
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 37.57850070721358
+Actual count: 17
+Significance value yes: 11.269068307334024
+Significance value no: 0.6045997899612906
+ 
+ 
+ 
+ 
+ 
+Trend detected: Japan
+Chi square val: 23.827983350303672
+This is greater than dfThreshold: 19.675
+Significant parameter: 2
+Value was more than expected
+Expected count: 13.655651279413656
+Actual count: 19
+Significance value yes: 2.091592898999343
+Significance value no: 0.06231573123342906
+ 
+Significant parameter: 6
+Value was more than expected
+Expected count: 15.68085379966568
+Actual count: 24
+Significance value yes: 4.413547526602951
+Significance value no: 0.13149472901028422
+ 
+Significant parameter: 8
+Value was less than expected
+Expected count: 17.879645107367878
+Actual count: 12
+Significance value yes: 1.933496240053963
+Significance value no: 0.05760548914355689
+ 
+Significant parameter: 9
+Value was more than expected
+Expected count: 17.90857657194291
+Actual count: 30
+Significance value yes: 8.163826975820129
+Significance value no: 0.24322842552430063
+ 
+Significant parameter: 10
+Value was less than expected
+Expected count: 22.71119969139771
+Actual count: 16
+Significance value yes: 1.9831713828343698
+Significance value no: 0.0590854821421789
+ 
+ 
+ 
+ 
+ 
+Trend detected: Canada
+Chi square val: 22.252198048525546
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 17.22888003086023
+Actual count: 7
+Significance value yes: 6.072941856831017
+Significance value no: 0.1414356195604053
+ 
+Significant parameter: 3
+Value was more than expected
+Expected count: 15.226051176546225
+Actual count: 23
+Significance value yes: 3.9691368174809223
+Significance value no: 0.09243910745975348
+ 
+Significant parameter: 5
+Value was more than expected
+Expected count: 12.358364407869358
+Actual count: 19
+Significance value yes: 3.5693496228811683
+Significance value no: 0.08312827411183875
+ 
+Significant parameter: 8
+Value was more than expected
+Expected count: 14.065320817796064
+Actual count: 19
+Significance value yes: 1.7312835552578991
+Significance value no: 0.04032068280008505
+ 
+Significant parameter: 9
+Value was less than expected
+Expected count: 14.088080236595086
+Actual count: 8
+Significance value yes: 2.630927730730881
+Significance value no: 0.06127292214991778
+ 
+ 
+ 
+ 
+ 
+Trend detected: Spain
+Chi square val: 21.52206168672855
+This is greater than dfThreshold: 19.675
+Significant parameter: 2
+Value was more than expected
+Expected count: 8.132698984184133
+Actual count: 13
+Significance value yes: 2.9130082429749242
+Significance value no: 0.05107197495206507
+ 
+Significant parameter: 7
+Value was more than expected
+Expected count: 10.33817667481034
+Actual count: 20
+Significance value yes: 9.029718963367548
+Significance value no: 0.15831248738600603
+ 
+Significant parameter: 10
+Value was less than expected
+Expected count: 13.525781149543526
+Actual count: 8
+Significance value yes: 2.257485684195109
+Significance value no: 0.03957910266677393
+ 
+Significant parameter: 12
+Value was less than expected
+Expected count: 14.352835283528353
+Actual count: 6
+Significance value yes: 4.861050509917416
+Significance value no: 0.0852257972430907
+ 
+ 
+ 
+ 
+ 
+Trend detected: Egypt
+Chi square val: 221.25970066878938
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 9.831168831168831
+Actual count: 0
+Significance value yes: 9.831168831168831
+Significance value no: 0.1293574846206427
+ 
+Significant parameter: 4
+Value was more than expected
+Expected count: 7.805194805194806
+Actual count: 19
+Significance value yes: 16.056442725327916
+Significance value no: 0.21126898322799956
+ 
+Significant parameter: 5
+Value was more than expected
+Expected count: 7.051948051948052
+Actual count: 18
+Significance value yes: 16.99669943316352
+Significance value no: 0.22364078201530746
+ 
+Significant parameter: 6
+Value was more than expected
+Expected count: 7.038961038961039
+Actual count: 39
+Significance value yes: 145.1219868692193
+Significance value no: 1.9094998272265726
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 7.792207792207793
+Actual count: 2
+Significance value yes: 4.305541125541127
+Significance value no: 0.056651856915015335
+ 
+Significant parameter: 8
+Value was less than expected
+Expected count: 8.025974025974026
+Actual count: 4
+Significance value yes: 2.019501534064641
+Significance value no: 0.026572388606114026
+ 
+Significant parameter: 9
+Value was less than expected
+Expected count: 8.03896103896104
+Actual count: 3
+Significance value yes: 3.158508696473156
+Significance value no: 0.04155932495359383
+ 
+Significant parameter: 10
+Value was less than expected
+Expected count: 10.194805194805195
+Actual count: 1
+Significance value yes: 8.292894366779716
+Significance value no: 0.10911703114183881
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 9.584415584415584
+Actual count: 3
+Significance value yes: 4.523439974659486
+Significance value no: 0.05951894703499421
+ 
+Significant parameter: 12
+Value was less than expected
+Expected count: 10.818181818181818
+Actual count: 3
+Significance value yes: 5.650114591291062
+Significance value no: 0.07434361304330443
+ 
+ 
+ 
+ 
+ 
+Trend detected: Turkey
+Chi square val: 113.9171426798954
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 9.733830525909735
+Actual count: 4
+Significance value yes: 3.377582177164688
+Significance value no: 0.0439961205831016
+ 
+Significant parameter: 3
+Value was more than expected
+Expected count: 8.602288800308603
+Actual count: 33
+Significance value yes: 69.19650404694536
+Significance value no: 0.9013482355991281
+ 
+Significant parameter: 4
+Value was more than expected
+Expected count: 7.727915648707728
+Actual count: 20
+Significance value yes: 19.48831498315032
+Significance value no: 0.2538532627738745
+ 
+Significant parameter: 5
+Value was less than expected
+Expected count: 6.982126784106982
+Actual count: 2
+Significance value yes: 3.555018128490039
+Significance value no: 0.04630738737123926
+ 
+Significant parameter: 6
+Value was less than expected
+Expected count: 6.969268355406969
+Actual count: 3
+Significance value yes: 2.2606521192446074
+Significance value no: 0.02944707723387486
+ 
+Significant parameter: 8
+Value was less than expected
+Expected count: 7.946508936607946
+Actual count: 2
+Significance value yes: 4.449874632400827
+Significance value no: 0.057963718020071414
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 9.48952038060949
+Actual count: 2
+Significance value yes: 5.911037995785641
+Significance value no: 0.07699671741286557
+ 
+Significant parameter: 12
+Value was less than expected
+Expected count: 10.711071107110712
+Actual count: 5
+Significance value yes: 3.0451047205560897
+Significance value no: 0.0396652953048855
+ 
+ 
+ 
+ 
+ 
+Trend detected: Taiwan
+Chi square val: 30.526931470401394
+This is greater than dfThreshold: 19.675
+Significant parameter: 3
+Value was less than expected
+Expected count: 6.709785264240709
+Actual count: 2
+Significance value yes: 3.3059295285464088
+Significance value no: 0.033492986521187526
+ 
+Significant parameter: 5
+Value was less than expected
+Expected count: 5.446058891603446
+Actual count: 1
+Significance value yes: 3.6296779122390412
+Significance value no: 0.03677294157093734
+ 
+Significant parameter: 6
+Value was less than expected
+Expected count: 5.436029317217436
+Actual count: 1
+Significance value yes: 3.6199871183339085
+Significance value no: 0.03667476233667216
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 6.017744631606018
+Actual count: 1
+Significance value yes: 4.183919845281231
+Significance value no: 0.04238806961058981
+ 
+Significant parameter: 8
+Value was more than expected
+Expected count: 6.198276970554198
+Actual count: 13
+Significance value yes: 7.46391882600188
+Significance value no: 0.07561834893208895
+ 
+Significant parameter: 11
+Value was more than expected
+Expected count: 7.401825896875401
+Actual count: 11
+Significance value yes: 1.749143664924878
+Significance value no: 0.017720899579704127
+ 
+Significant parameter: 12
+Value was more than expected
+Expected count: 8.354635463546353
+Actual count: 13
+Significance value yes: 2.582926780072967
+Significance value no: 0.026168111293114332
+ 
+ 
+ 
+ 
+ 

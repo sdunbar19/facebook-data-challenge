@@ -1,0 +1,154 @@
+Trend detected: R
+Chi square val: 49.0681421160708
+This is greater than dfThreshold: 5.991
+Significant parameter: (2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017)
+Value was less than expected
+Expected count: 155.02700270027003
+Actual count: 84
+Significance value yes: 32.541654193868894
+Significance value no: 3.0427727838755363
+ 
+Significant parameter: (2018, 2019)
+Value was more than expected
+Expected count: 328.1818181818182
+Actual count: 357
+Significance value yes: 2.530571644422059
+Significance value no: 0.23661841163395517
+ 
+Significant parameter: (2020, 2021)
+Value was more than expected
+Expected count: 181.79117911791178
+Actual count: 224
+Significance value yes: 9.800170552283237
+Significance value no: 0.9163545299871161
+ 
+ 
+ 
+ 
+ 
+Trend detected: PG-13
+Chi square val: 57.88598209789437
+This is greater than dfThreshold: 5.991
+Significant parameter: (2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017)
+Value was less than expected
+Expected count: 89.98559855985599
+Actual count: 34
+Significance value yes: 34.83209864987939
+Significance value no: 1.8191300336697975
+ 
+Significant parameter: (2020, 2021)
+Value was more than expected
+Expected count: 105.52089494663753
+Actual count: 151
+Significance value yes: 19.60132159133748
+Significance value no: 1.0236923466724743
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-14
+Chi square val: 6.18155062444786
+This is greater than dfThreshold: 5.991
+Significant parameter: (2020, 2021)
+Value was less than expected
+Expected count: 527.0577343448631
+Actual count: 485
+Significance value yes: 3.3560896709385637
+Significance value no: 1.1062644700922468
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-PG
+Chi square val: 43.869830278108374
+This is greater than dfThreshold: 5.991
+Significant parameter: (2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017)
+Value was more than expected
+Expected count: 187.43114311431142
+Actual count: 248
+Significance value yes: 19.57298218152364
+Significance value no: 2.2568016167997977
+ 
+Significant parameter: (2020, 2021)
+Value was less than expected
+Expected count: 219.78963610646778
+Actual count: 154
+Significance value yes: 19.69281307206314
+Significance value no: 2.2706183436022993
+ 
+ 
+ 
+ 
+ 
+Trend detected: NR
+Chi square val: 138.9845211927033
+This is greater than dfThreshold: 5.991
+Significant parameter: (2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017)
+Value was more than expected
+Expected count: 19.34923492349235
+Actual count: 64
+Significance value yes: 103.03719138253315
+Significance value no: 1.1115267591305262
+ 
+Significant parameter: (2018, 2019)
+Value was less than expected
+Expected count: 40.961038961038966
+Actual count: 19
+Significance value yes: 11.774291973087157
+Significance value no: 0.12701666672293552
+ 
+Significant parameter: (2020, 2021)
+Value was less than expected
+Expected count: 22.68972611546869
+Actual count: 0
+Significance value yes: 22.68972611546869
+Significance value no: 0.2447682957608379
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-G
+Chi square val: 12.108023655865871
+This is greater than dfThreshold: 5.991
+Significant parameter: (2018, 2019)
+Value was less than expected
+Expected count: 95.74025974025975
+Actual count: 78
+Significance value yes: 3.2871940864344573
+Significance value no: 0.08409806841201142
+ 
+Significant parameter: (2020, 2021)
+Value was more than expected
+Expected count: 53.03381766748104
+Actual count: 74
+Significance value yes: 8.288688631781637
+Significance value no: 0.21205401484447586
+ 
+ 
+ 
+ 
+ 
+Trend detected: TV-Y
+Chi square val: 40.504602971934524
+This is greater than dfThreshold: 5.991
+Significant parameter: (2018, 2019)
+Value was less than expected
+Expected count: 137.68831168831167
+Actual count: 99
+Significance value yes: 10.870824421758199
+Significance value no: 0.40450253583229717
+ 
+Significant parameter: (2020, 2021)
+Value was more than expected
+Expected count: 76.27028417127427
+Actual count: 122
+Significance value yes: 27.418370502985766
+Significance value no: 1.0202354454965306
+ 
+ 
+ 
+ 
+ 

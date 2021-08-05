@@ -1,0 +1,126 @@
+Trend detected: ('1 min', '2 min', '3 min', '4 min', '5 min', '6 min', '7 min', '8 min', '9 min', '10 min', '11 min', '12 min', '13 min', '14 min', '15 min', '16 min', '17 min', '18 min', '19 min', '20 min', '21 min', '22 min', '23 min', '24 min', '25 min', '26 min', '27 min', '28 min', '29 min', '30 min', '31 min', '32 min', '33 min', '34 min', '35 min', '36 min', '37 min', '38 min', '39 min', '40 min', '41 min', '42 min', '43 min', '44 min', '45 min', '46 min', '47 min', '48 min', '49 min')
+Chi square val: 24.830348837622864
+This is greater than dfThreshold: 11.07
+Significant parameter: 2016
+Value was more than expected
+Expected count: 11.899572252185234
+Actual count: 27
+Significance value yes: 19.162278553760625
+Significance value no: 0.926544176512504
+ 
+Significant parameter: 2019
+Value was less than expected
+Expected count: 69.04519248651665
+Actual count: 54
+Significance value yes: 3.278400838704896
+Significance value no: 0.15851889413117998
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('50 min', '51 min', '52 min', '53 min', '54 min', '55 min', '56 min', '57 min', '58 min', '59 min', '60 min', '61 min', '62 min', '63 min', '64 min', '65 min', '66 min', '67 min', '68 min', '69 min', '70 min', '71 min', '72 min', '73 min', '74 min', '75 min', '76 min', '77 min', '78 min', '79 min', '80 min', '81 min', '82 min', '83 min', '84 min', '85 min', '86 min', '87 min', '88 min', '89 min', '90 min', '91 min', '92 min', '93 min', '94 min', '95 min', '96 min', '97 min', '98 min', '99 min')
+Chi square val: 103.01498073455043
+This is greater than dfThreshold: 11.07
+Significant parameter: 2015
+Value was more than expected
+Expected count: 28.023805095778314
+Actual count: 45
+Significance value yes: 10.2837995211984
+Significance value no: 9.614001855370077
+ 
+Significant parameter: 2016
+Value was more than expected
+Expected count: 124.65761577087596
+Actual count: 175
+Significance value yes: 20.330532027268756
+Significance value no: 19.006377188500984
+ 
+Significant parameter: 2017
+Value was more than expected
+Expected count: 417.45806211642184
+Actual count: 486
+Significance value yes: 11.253818467461041
+Significance value no: 10.52084216569406
+ 
+Significant parameter: 2018
+Value was less than expected
+Expected count: 606.3771619862378
+Actual count: 566
+Significance value yes: 2.688615786126662
+Significance value no: 2.513502631290777
+ 
+Significant parameter: 2020
+Value was less than expected
+Expected count: 633.9177980286405
+Actual count: 563
+Significance value yes: 7.9337322486784325
+Significance value no: 7.416997618591784
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('100 min', '101 min', '102 min', '103 min', '104 min', '105 min', '106 min', '107 min', '108 min', '109 min', '110 min', '111 min', '112 min', '113 min', '114 min', '115 min', '116 min', '117 min', '118 min', '119 min', '120 min', '121 min', '122 min', '123 min', '124 min', '125 min', '126 min', '127 min', '128 min', '129 min', '130 min', '131 min', '132 min', '133 min', '134 min', '135 min', '136 min', '137 min', '138 min', '139 min', '140 min', '141 min', '142 min', '143 min', '144 min', '145 min', '146 min', '147 min', '148 min', '149 min')
+Chi square val: 105.6581075442928
+This is greater than dfThreshold: 11.07
+Significant parameter: 2015
+Value was less than expected
+Expected count: 24.679933048168124
+Actual count: 9
+Significance value yes: 9.961951676091923
+Significance value no: 7.378745689510625
+ 
+Significant parameter: 2016
+Value was less than expected
+Expected count: 109.7831504556444
+Actual count: 53
+Significance value yes: 29.369954881838368
+Significance value no: 21.754113554433854
+ 
+Significant parameter: 2017
+Value was less than expected
+Expected count: 367.64589920029755
+Actual count: 307
+Significance value yes: 10.003987798620534
+Significance value no: 7.40988154200187
+ 
+Significant parameter: 2019
+Value was more than expected
+Expected count: 636.99758229496
+Actual count: 686
+Significance value yes: 3.7696170404416542
+Significance value no: 2.7921281283685677
+ 
+Significant parameter: 2020
+Value was more than expected
+Expected count: 558.2771061930445
+Actual count: 619
+Significance value yes: 6.604730502804808
+Significance value no: 4.892076202789705
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('150 min', '151 min', '152 min', '153 min', '154 min', '155 min', '156 min', '157 min', '158 min', '159 min', '160 min', '161 min', '162 min', '163 min', '164 min', '165 min', '166 min', '167 min', '168 min', '169 min', '170 min', '171 min', '172 min', '173 min', '174 min', '175 min', '176 min', '177 min', '178 min', '179 min', '180 min', '181 min', '182 min', '183 min', '184 min', '185 min', '186 min', '187 min', '188 min', '189 min', '190 min', '191 min', '192 min', '193 min', '194 min', '195 min', '196 min', '197 min', '198 min', '199 min')
+Chi square val: 15.405174681600704
+This is greater than dfThreshold: 11.07
+Significant parameter: 2016
+Value was less than expected
+Expected count: 10.891947182443742
+Actual count: 3
+Significance value yes: 5.7182457174299115
+Significance value no: 0.2520469471566195
+ 
+Significant parameter: 2018
+Value was more than expected
+Expected count: 52.98214617816627
+Actual count: 72
+Significance value yes: 6.826427203843289
+Significance value no: 0.3008930049072693
+ 
+ 
+ 
+ 
+ 

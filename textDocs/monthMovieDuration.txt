@@ -1,0 +1,154 @@
+Trend detected: ('1 min', '2 min', '3 min', '4 min', '5 min', '6 min', '7 min', '8 min', '9 min', '10 min', '11 min', '12 min', '13 min', '14 min', '15 min', '16 min', '17 min', '18 min', '19 min', '20 min', '21 min', '22 min', '23 min', '24 min', '25 min', '26 min', '27 min', '28 min', '29 min', '30 min', '31 min', '32 min', '33 min', '34 min', '35 min', '36 min', '37 min', '38 min', '39 min')
+Chi square val: 26.725119933119213
+This is greater than dfThreshold: 19.675
+Significant parameter: 6
+Value was less than expected
+Expected count: 10.236563139297006
+Actual count: 6
+Significance value yes: 1.7533684879398608
+Significance value no: 0.04893744967295344
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 10.94253301097266
+Actual count: 6
+Significance value yes: 2.2324476919611373
+Significance value no: 0.06230880577830795
+ 
+Significant parameter: 12
+Value was more than expected
+Expected count: 15.042588804165892
+Actual count: 32
+Significance value yes: 19.11597785515249
+Significance value no: 0.5335371376127425
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('50 min', '51 min', '52 min', '53 min', '54 min', '55 min', '56 min', '57 min', '58 min', '59 min')
+Chi square val: 34.188845550811855
+This is greater than dfThreshold: 19.675
+Significant parameter: 2
+Value was more than expected
+Expected count: 10.492095964292357
+Actual count: 18
+Significance value yes: 5.3724845065498705
+Significance value no: 0.17753455045659633
+ 
+Significant parameter: 4
+Value was more than expected
+Expected count: 13.435000929886554
+Actual count: 19
+Significance value yes: 2.3051144404070407
+Significance value no: 0.07617284990394098
+ 
+Significant parameter: 6
+Value was less than expected
+Expected count: 12.059512739445788
+Actual count: 6
+Significance value yes: 3.044707977247281
+Significance value no: 0.10061282845082242
+ 
+Significant parameter: 7
+Value was more than expected
+Expected count: 12.89120327320067
+Actual count: 27
+Significance value yes: 15.441393705424108
+Significance value no: 0.5102631541465783
+ 
+Significant parameter: 9
+Value was less than expected
+Expected count: 13.275060442626
+Actual count: 8
+Significance value yes: 2.0961307704489194
+Significance value no: 0.06926695341348975
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 16.34591779802864
+Actual count: 10
+Significance value yes: 2.463653200568121
+Significance value no: 0.08141178683913931
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('140 min', '141 min', '142 min', '143 min', '144 min', '145 min', '146 min', '147 min', '148 min', '149 min')
+Chi square val: 20.823959064229243
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was more than expected
+Expected count: 14.893063046308349
+Actual count: 23
+Significance value yes: 4.41295565370096
+Significance value no: 0.12056795156271145
+ 
+Significant parameter: 2
+Value was less than expected
+Expected count: 8.72307978426632
+Actual count: 2
+Significance value yes: 5.18163342574679
+Significance value no: 0.1415692739552517
+ 
+Significant parameter: 7
+Value was less than expected
+Expected count: 10.717686442254044
+Actual count: 5
+Significance value yes: 3.0502794076013515
+Significance value no: 0.08333778282135879
+ 
+Significant parameter: 10
+Value was more than expected
+Expected count: 14.706899758229495
+Actual count: 22
+Significance value yes: 3.616622946433698
+Significance value no: 0.09881105871991183
+ 
+ 
+ 
+ 
+ 
+Trend detected: ('160 min', '161 min', '162 min', '163 min', '164 min', '165 min', '166 min', '167 min', '168 min', '169 min')
+Chi square val: 23.374719410409213
+This is greater than dfThreshold: 19.675
+Significant parameter: 1
+Value was less than expected
+Expected count: 7.082015994048726
+Actual count: 2
+Significance value yes: 3.646826918418474
+Significance value no: 0.04671015830711289
+ 
+Significant parameter: 3
+Value was more than expected
+Expected count: 5.956481309280267
+Actual count: 12
+Significance value yes: 6.131827881029989
+Significance value no: 0.07853914031080046
+ 
+Significant parameter: 8
+Value was more than expected
+Expected count: 5.235633252743165
+Actual count: 10
+Significance value yes: 4.335519584087297
+Significance value no: 0.055531235961185504
+ 
+Significant parameter: 10
+Value was less than expected
+Expected count: 6.993490794123117
+Actual count: 3
+Significance value yes: 2.28040176104153
+Significance value no: 0.029208385713095114
+ 
+Significant parameter: 11
+Value was less than expected
+Expected count: 6.462339594569462
+Actual count: 2
+Significance value yes: 3.0813104705911036
+Significance value no: 0.03946677566400375
+ 
+ 
+ 
+ 
+ 

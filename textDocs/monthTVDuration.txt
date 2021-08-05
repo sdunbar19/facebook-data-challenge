@@ -1,0 +1,42 @@
+Trend detected: 8 Seasons
+Chi square val: 19.69100759067914
+This is greater than dfThreshold: 19.675
+Significant parameter: 2
+Value was more than expected
+Expected count: 1.08
+Actual count: 3
+Significance value yes: 3.413333333333333
+Significance value no: 0.025793450881612515
+ 
+Significant parameter: 9
+Value was more than expected
+Expected count: 1.53
+Actual count: 5
+Significance value yes: 7.869869281045751
+Significance value no: 0.05947004494493007
+ 
+Significant parameter: 10
+Value was less than expected
+Expected count: 1.74
+Actual count: 0
+Significance value yes: 1.74
+Significance value no: 0.013148614609571495
+ 
+ 
+ 
+ 
+ 
+Trend detected: 9 Seasons
+Chi square val: 21.0343752238187
+This is greater than dfThreshold: 19.675
+Significant parameter: 9
+Value was more than expected
+Expected count: 0.68
+Actual count: 4
+Significance value yes: 16.20941176470588
+Significance value no: 0.05421207948062146
+ 
+ 
+ 
+ 
+ 
